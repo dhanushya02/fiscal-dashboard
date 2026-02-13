@@ -7,3 +7,7 @@ This dashboard allows users to simulate economic scenarios.
 1. Upload the `Master_Fiscal_Dataset.csv`.
 2. Use the sidebar slider to set a "Revenue Shortfall %".
 3. View the updated 2026-27 projections and the impact on the Fiscal Deficit.
+
+Description: "Hybrid VECM-Random Forest Forecasting Dashboard for India's Gross Fiscal Deficit (1970–2026)."
+
+Website: https://fiscal-dashboard-nfzxfnsrtn99ktbg4znw7i.streamlit.app/
